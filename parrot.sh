@@ -1,4 +1,4 @@
 #/bin/bash
 
-printf "curl parrot.live" >> ~/.zshrc
-printf "curl parrot.live" >> ~/.bashrc
+printf "\ncurl parrot.live" >> ~/.zshrc
+printf "\ncurl parrot.live" >> ~/.bashrc
